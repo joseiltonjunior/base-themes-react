@@ -11,7 +11,7 @@ $ git clone https://github.com/joseiltonjunior/base-themes-react.git
 
 $ cd base-themes-react: abrir pasta do projeto
 
-$ yarn: instalar as depêndencias
+$ yarn: instalar as dependências
 
 $ yarn start: rodar o projeto
 ```
